@@ -4,6 +4,4 @@ This repo was created to see my progress in Python and to gather hackerrank Pyth
 
 # List of Solutions 
 
-***
-
 1. [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
