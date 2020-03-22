@@ -6,3 +6,4 @@ This repo was created to see my progress in Python and to gather hackerrank Pyth
 
 1. [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)
 2. [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
+3. [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)
