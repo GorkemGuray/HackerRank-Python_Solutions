@@ -16,7 +16,7 @@ if __name__ == '__main__':
     for z in range ((len(liste_1)-1)):
         if(liste_1[z][1]==liste_1[z+1][1]):
             en_kucuk_sayi_adedi = en_kucuk_sayi_adedi+1
-        elif(liste_1[z][1]!=liste_1[z+1][1]):
+        else:
             break
   
 
@@ -24,7 +24,7 @@ if __name__ == '__main__':
                  
         if (liste_1[j][1] == liste_1[j+1][1]):
             en_kucuk_2_sayi_adedi = en_kucuk_2_sayi_adedi+1
-        elif(liste_1[j][1] != liste_1[j+1][1]):
+        else:
             break
 
     
