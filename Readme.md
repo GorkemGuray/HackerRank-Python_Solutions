@@ -9,3 +9,4 @@ This repo was created to see my progress in Python and to gather hackerrank Pyth
 3. [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)
 4. [Finding the Percentage](https://www.hackerrank.com/challenges/nested-list/problem)
 5. [Lists](https://www.hackerrank.com/challenges/python-lists/problem)
+6. [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
