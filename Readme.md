@@ -18,3 +18,5 @@ This repo was created to see my progress in Python and to gather hackerrank Pyth
 12. [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)
 13. [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)
 14. [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)
+15. [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
+16. [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)
