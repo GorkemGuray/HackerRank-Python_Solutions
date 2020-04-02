@@ -17,3 +17,4 @@ This repo was created to see my progress in Python and to gather hackerrank Pyth
 11. [Find a String](https://www.hackerrank.com/challenges/find-a-string/problem)
 12. [String Validators](https://www.hackerrank.com/challenges/string-validators/problem)
 13. [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem)
+14. [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem)
