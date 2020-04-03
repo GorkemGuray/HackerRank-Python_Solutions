@@ -21,3 +21,4 @@ This repo was created to see my progress in Python and to gather hackerrank Pyth
 15. [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
 16. [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)
 17. [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)
+18. [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem)
